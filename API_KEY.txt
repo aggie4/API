@@ -1,0 +1,9 @@
+Api_Key	    :		iLhEJlB1qDCLavaq_8zd7iQTST7mIl0_iM7EZZUm2Vs
+
+
+
+
+GET		:	데이터를 얻어온다 (기본값)
+PUT		:	데이터를 수정한다
+POST		:	데이터를 생성한다.
+DELETE		:	데이터를 삭제한다
